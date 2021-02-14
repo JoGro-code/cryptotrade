@@ -1,10 +1,4 @@
 # Python Crypto Bot (pycryptobot)
-
-## Introduction
-
-Follow me on Medium for updates!
-https://whittle.medium.com
-
 ## Prerequisites
 
 * Python 3.x installed -- https://installpython3.com
