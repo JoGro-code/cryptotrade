@@ -29,7 +29,7 @@ The "requirements.txt" was created with "python3 -m pip freeze"
 
 % python3 pycryptobot.py <arguments>
     
-    python3 pycryptobot.py --market BTC-EUR --live 0 --graphs 1 --sim slow
+    python3 pycryptobot.py --market BTC-EUR --live 1 --graphs 1 --sim slow
 
     * Arguments
     --market <market> (default: BTC-GBP)
