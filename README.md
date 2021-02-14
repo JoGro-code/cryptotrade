@@ -17,7 +17,7 @@
 
 ## Installation
 
-    git clone https://github.com/whittlem/pycryptobot
+    git clone https://github.com/JoGro-code/cryptotrade
     cd pycryptobot
     python3 -m pip install -r requirements.txt
 
