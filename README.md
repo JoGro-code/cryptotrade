@@ -1,4 +1,7 @@
 # Python Crypto Bot (pycryptobot)
+## Information
+* We are willing to run this bot on a Synology server.  
+
 ## Prerequisites
 
 * Python 3.x installed -- https://installpython3.com
