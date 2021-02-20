@@ -21,7 +21,7 @@
 ## Installation
 
     git clone https://github.com/JoGro-code/cryptotrade
-    cd pycryptobot
+    cd cryptotrade
     python3 -m pip install -r requirements.txt
 
 ## Additional Information
